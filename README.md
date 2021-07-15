@@ -71,4 +71,6 @@ Once the wheels are ready now we can move on with assembling the whole robot.
 
 On the backside of the base, there is 20mm hole for attaching a power switch later on, as well as a 5mm hole for attaching an LED.
 
+Note: I had uploaded the STL file into a rar file cause the github doesn't accept files over than 25Mb
+
 
