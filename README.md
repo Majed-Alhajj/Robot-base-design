@@ -32,7 +32,6 @@ We should use two types of mecanum wheels: (right handed and left handed),The di
 
 3.	To move right: the right wheels will rotate inside the robot, while the left wheels will rotate outside the robot.
 
-Note: the assembly of the robot base project compressed into rar file cause the github doesn't accept files have a size more than 25MPb
 By using forcing analysis we will notice that, the resulting force due to the diagonally positioned rollers will make the robot move to the right.
 
 4.	To move left: the left wheels will rotate inside the robot, while the right wheels will rotate outside the robot.
